@@ -1,7 +1,7 @@
 # Android Developer Fundamentals (Version 2) — Concepts
 https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/
 
-[TOC](index)
+[TOC]
 
 ## 1
 ### 1.0
