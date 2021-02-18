@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">controls</string>
+    <string name="textview">显示</string>
+    <string name="button1">→</string>
+    <string name="button2">←</string>
+    <string name="switch1">开关</string>
+    <string name="hint1">输入数值</string>
+    <string name="button3">确定</string>
+    <string name="radiobutton1">img1</string>
+    <string name="radiobutton2">img2</string>
+    <string name="img1">avatar</string>
+    <string name="checkbox1">1</string>
+    <string name="checkbox2">2</string>
+    <string name="checkbox3">3</string>
+</resources>

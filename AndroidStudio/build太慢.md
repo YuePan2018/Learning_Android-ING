@@ -1,4 +1,4 @@
-##方法
+## 方法
 修改studio64.exe.vmoptions文件  
 
 ## 参数解释
